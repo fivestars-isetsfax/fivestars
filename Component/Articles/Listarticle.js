@@ -32,7 +32,7 @@ export default function Listarticle() {
           <td>{art.designatio}</td>
           <td>{art.qtestock}</td>
           <td>{art.prixVente}</td>
-          <td>modifier supprimer</td>
+          <td>modifier</td>
         </tr>
         )}
       </tbody>
